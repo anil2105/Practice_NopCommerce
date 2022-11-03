@@ -1,0 +1,4 @@
+com\practice_project\scripts\BaseTest.class
+com\practice_project\pom\BasePage.class
+com\practice_project\pom\RegisterPage.class
+com\practice_project\scripts\VerifyRegisterPage.class
